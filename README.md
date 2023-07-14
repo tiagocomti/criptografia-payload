@@ -14,4 +14,4 @@ como utilizar:
 
 ![Captura de Tela 2021-03-30 às 11 48 02](https://user-images.githubusercontent.com/19311085/113008865-ce9f7c80-914d-11eb-84fa-28c5384c2024.png)
 
-Obrigado
+Obrigado!
